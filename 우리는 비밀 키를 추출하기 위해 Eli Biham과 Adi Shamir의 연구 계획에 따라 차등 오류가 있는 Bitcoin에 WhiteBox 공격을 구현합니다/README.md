@@ -1,3 +1,5 @@
+# 우리는 비밀 키를 추출하기 위해 Eli Biham과 Adi Shamir의 연구 계획에 따라 차등 오류가 있는 Bitcoin에 WhiteBox 공격을 구현합니다.
+
 <!-- wp:embed {"url":"https://www.youtube.com/embed/dLy74McEFTg","type":"rich","providerNameSlug":"вставить-обработчик","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed is-type-rich is-provider-вставить-обработчик wp-block-embed-вставить-обработчик wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/embed/dLy74McEFTg
